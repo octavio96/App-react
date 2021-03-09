@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "hacer la cama",
+      "author": "typicode",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "deshacer la cama",
+      "author": "typicode",
+      "done": false
+    },
+    {
+      "title": "HOLA",
+      "author": "tucas",
+      "done": false,
+      "id": 3
+    }
+  ]
+}
